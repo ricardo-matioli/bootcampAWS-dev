@@ -5,15 +5,15 @@
     "description" : ""
   }, {
     "name" : "bronze_bucketname",
-    "value" : "datalake-1-bronze-us-east-1-509399604366-sandbox-dlh ",
+    "value" : "datalake-1-bronze-us-east-1-509399604366-sandbox-dlh",
     "description" : ""
   }, {
     "name" : "silver_bucketname",
-    "value" : "datalake-2-silver-us-east-1-509399604366-sandbox-dlh ",
+    "value" : "datalake-2-silver-us-east-1-509399604366-sandbox-dlh",
     "description" : ""
   }, {
     "name" : "gold_bucketname",
-    "value" : "datalake-3-gold-us-east-1-509399604366-sandbox-dlh ",
+    "value" : "datalake-3-gold-us-east-1-509399604366-sandbox-dlh",
     "description" : ""
   }, {
     "name" : "athena_bucketname",
@@ -34,6 +34,14 @@
   }, {
     "name" : "smtp_password",
     "value" : "",
+    "description" : ""
+  }, {
+    "name" : "user_athena",
+    "value" : "Encrypted 414b4943e6d6e89d3ce3a1ac823bfc54f0be8af6",
+    "description" : ""
+  }, {
+    "name" : "pwd_athena",
+    "value" : "Encrypted 564157543353383156744147782b6e726f5a343873677561f0c0fcab53f5a4bdfe12a648e6919dff",
     "description" : ""
   } ]
 }

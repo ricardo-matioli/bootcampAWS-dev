@@ -12,7 +12,7 @@
       "value" : "/commercial/erp/public/customers"
     }, {
       "name" : "path_tmp_complement",
-      "value" : "/commercial/erp/public/customers"
+      "value" : "/commercial/erp/tmp/customers"
     } ]
   }
 }
