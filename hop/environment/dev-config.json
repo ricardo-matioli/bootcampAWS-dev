@@ -1,0 +1,39 @@
+{
+  "variables" : [ {
+    "name" : "endpoint",
+    "value" : "oltp-postgres-15-6-rds-us-east-1-509399604366-sandbox-dlh.cxu2makwiagi.us-east-1.rds.amazonaws.com",
+    "description" : ""
+  }, {
+    "name" : "bronze_bucketname",
+    "value" : "datalake-1-bronze-us-east-1-509399604366-sandbox-dlh ",
+    "description" : ""
+  }, {
+    "name" : "silver_bucketname",
+    "value" : "datalake-2-silver-us-east-1-509399604366-sandbox-dlh ",
+    "description" : ""
+  }, {
+    "name" : "gold_bucketname",
+    "value" : "datalake-3-gold-us-east-1-509399604366-sandbox-dlh ",
+    "description" : ""
+  }, {
+    "name" : "athena_bucketname",
+    "value" : "Encrypted 6177732d617468656e612d71756572792d726573756c74732d75732d656173742d312d35303933393936328aab99fe47d4938aaf1ba1689396a3d2",
+    "description" : ""
+  }, {
+    "name" : "secrets_password",
+    "value" : "Encrypted 2be98af831ee2a3888733bc28ffb8a5ef",
+    "description" : ""
+  }, {
+    "name" : "secrets_name",
+    "value" : "secret-oltp-postgres-15-6-rds-us-east-1-509399604366-sandbox-dlh",
+    "description" : ""
+  }, {
+    "name" : "smtp_user",
+    "value" : "",
+    "description" : ""
+  }, {
+    "name" : "smtp_password",
+    "value" : "",
+    "description" : ""
+  } ]
+}
