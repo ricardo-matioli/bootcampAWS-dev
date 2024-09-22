@@ -1,0 +1,18 @@
+{
+  "metadataBaseFolder" : "${PROJECT_HOME}/metadata",
+  "unitTestsBasePath" : "${PROJECT_HOME}",
+  "dataSetsCsvFolder" : "${PROJECT_HOME}/datasets",
+  "enforcingExecutionInHome" : true,
+  "config" : {
+    "variables" : [ {
+      "name" : "YEARMONTH_MOVEMENT",
+      "value" : "201301"
+    }, {
+      "name" : "path_complement",
+      "value" : "/commercial/erp/public/customers"
+    }, {
+      "name" : "path_tmp_complement",
+      "value" : "/commercial/erp/public/customers"
+    } ]
+  }
+}

@@ -259,8 +259,17 @@
     "standardParentProject" : null,
     "standardProjectsFolder" : null,
     "defaultProjectConfigFile" : "project-config.json",
-    "projectConfigurations" : [ ],
-    "lifecycleEnvironments" : [ ],
+    "projectConfigurations" : [ {
+      "projectName" : "dlk",
+      "projectHome" : "C:\\opt\\bootcampAWS-dev\\hop\\project",
+      "configFilename" : "project-config.json"
+    } ],
+    "lifecycleEnvironments" : [ {
+      "name" : "dlk\\dev",
+      "purpose" : "Development",
+      "projectName" : "project",
+      "configurationFiles" : [ "C:\\opt\\bootcampAWS-dev\\hop\\environment\\dev-config.json" ]
+    } ],
     "projectLifecycles" : [ ]
   },
   "azure" : {
