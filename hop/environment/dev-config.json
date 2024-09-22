@@ -17,7 +17,7 @@
     "description" : ""
   }, {
     "name" : "athena_bucketname",
-    "value" : "Encrypted 6177732d617468656e612d71756572792d726573756c74732d75732d656173742d312d35303933393936328aab99fe47d4938aaf1ba1689396a3d2",
+    "value" : "aws-athena-query-results-us-east-1-509399604366-sandbox-dlh",
     "description" : ""
   }, {
     "name" : "secrets_password",
